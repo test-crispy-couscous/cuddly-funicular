@@ -1,4 +1,4 @@
-﻿namespace AspnetTemplate.Core.Models;
+﻿namespace CuddlyFunicular.Core.Models;
 
 public class Sample : Entity
 {

@@ -1,7 +1,7 @@
-﻿using AspnetTemplate.Core.Models;
+﻿using CuddlyFunicular.Core.Models;
 using Microsoft.EntityFrameworkCore;
 
-namespace AspnetTemplate.Infrastructure;
+namespace CuddlyFunicular.Infrastructure;
 
 public class AppDbContext : DbContext
 {

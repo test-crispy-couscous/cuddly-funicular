@@ -1,6 +1,6 @@
 using Xunit;
 
-namespace AspnetTemplate.Tests;
+namespace CuddlyFunicular.Tests;
 
 public class UnitTest1
 {

@@ -1,9 +1,9 @@
-﻿using AspnetTemplate.Core.Models;
-using AspnetTemplate.Infrastructure;
+﻿using CuddlyFunicular.Core.Models;
+using CuddlyFunicular.Infrastructure;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
-namespace AspnetTemplate.Controllers.v1;
+namespace CuddlyFunicular.Controllers.v1;
 
 [ApiVersion("1.0")]
 [ApiController]
